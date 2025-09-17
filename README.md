@@ -1,4 +1,4 @@
-# Spring Boot Microservices Project
+# Ecommerce Spring Boot Microservices Project
 
 ## Overview
 This project demonstrates a **Microservices-based architecture** using **Java 17** and **Spring Boot**.  
@@ -69,8 +69,8 @@ springboot-microservices/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/springboot-microservices.git
-cd springboot-microservices
+git clone https://github.com/SayyedKamranAli/ecommerce-springboot-microservices
+cd ecommerce-springboot-microservices
 ```
 
 ### Build & Run Services
